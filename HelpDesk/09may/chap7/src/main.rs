@@ -1,9 +1,9 @@
 pub mod lahore;
-pub mod multan;
+// pub mod multan;
 fn main() {
     faisalabad();
     lahore::mall_road();
-    multan::vehari_chowk();
+    multan::one::vehari_chowk();
 }
 
 fn faisalabad(){
